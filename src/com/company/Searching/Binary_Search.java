@@ -20,7 +20,7 @@ public class Binary_Search {
 			while(left<right) {
 				if(arr[index] == key) {
 					return index;
-				}		
+				}
 				index = (left + right) / 2;			
 			}
 		}
