@@ -1,5 +1,11 @@
 package com.company.Sorting;
 
+
+// It sorts an array by repeatedly selecting the smallest (or largest)
+// element from the unsorted portion and swapping it with the first 
+// unsorted element. This process continues until the entire array is sorted.
+
+
 public class Selection_sort {
 	 public static void main(String[] args) {
 		int arr[] = {3,2,4,1,5};
