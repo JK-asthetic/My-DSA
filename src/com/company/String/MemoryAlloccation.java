@@ -1,7 +1,7 @@
 package com.company.String;
 
 public class MemoryAlloccation {
-	public static void main(String[] args) {
+	public static void main(String[] args) {	
 		
 		String s1 = "Hello bhai";
 		String s0 = "Hello bhai";
