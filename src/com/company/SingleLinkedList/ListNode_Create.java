@@ -1,4 +1,4 @@
-package com.company.Collection_work;
+package com.company.SingleLinkedList;
 
 class ListNode {
     String data;
